@@ -1,0 +1,1 @@
+export const brands = ["Wedding Wear","Bridal Wear","Party Wear","Casual Wear","Festive Wear","Pakistani","Indian"];
